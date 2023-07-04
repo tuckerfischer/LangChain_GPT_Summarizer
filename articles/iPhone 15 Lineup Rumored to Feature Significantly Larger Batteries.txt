@@ -1,0 +1,13 @@
+The iPhone 15 lineup will feature significantly larger batteries across the board, according to an alleged Foxconn worker speaking to ITHome.
+
+iphone 15 dummy model lineupiPhone 15 lineup dummy models.
+
+The information claims that the iPhone 15 will feature an 18% larger battery, iPhone 15 Plus and iPhone 15 Pro a 14% larger battery, and the iPhone 15 Pro Max a 12% larger battery. The exact capacity changes are said to be as follows:
+2021	2022	2023
+iPhone 13: 3,227mAh	iPhone 14: 3,279mAh	iPhone 15: 3,877mAh
+iPhone 13 mini: 2,406mAh	iPhone 14 Plus: 4,325mAh	iPhone 15 Plus: 4,912mAh
+iPhone 13 Pro: 3,095mAh	iPhone 14 Pro: 3,200mAh	iPhone 15 Pro: 3,650mAh
+iPhone 13 Pro Max: 4,352mAh	iPhone 14 Pro Max: 4,323mAh	iPhone 15 Pro Max: 4,852mAh
+If correct, the changes would mean that the 15 Plus would increase its battery capacity lead over the Pro Max model even further, while the 15 Pro would remain the iPhone with the smallest battery. The source is without a proven track record, but the alleged capacities seem plausible, especially given the fact that this year's iPhone models are expected to get slightly thicker, providing more internal space for larger batteries. With the efficiency improvements of the A16 and A17 Bionic chips, it seems highly likely that the entire iPhone lineup could boast battery life improvements this year.
+
+ITHome also highlighted separate information purportedly coming out of Foxconn that is circulating on Weibo saying that the iPhone 15 Pro will begin with 256GB of storage as standard, doubling the current 128GB base storage configuration. This would also be a key differentiator between the Pro and non-Pro models, since the iPhone 15 and iPhone 15 Plus are still expected to start with 128GB of storage.

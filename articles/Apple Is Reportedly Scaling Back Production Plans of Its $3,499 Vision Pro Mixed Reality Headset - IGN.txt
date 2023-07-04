@@ -1,0 +1,28 @@
+Production difficulties and the complex design of Apple's $3,499 Vision Pro mixed reality headset have reportedly caused Apple to scale back its internal sales target of 1 million units sold in 2024 as it is worried it won't be able to make enough of its newest device.
+
+As reported by FT, these production issues have also been said to have pushed back the plans for a cheaper version of the Apple Vision Pro, which obviously would be welcome to many as one of the biggest talking points from the headset's reveal was the shocking $3,499 price tag.
+
+As to the production changes, sources from Apple and Luxshare, the Chinese contract manufacturer that will be the first to assemble the Apple Vision Pro, have said they expect to make less than 400,000 units in 2024. It's also important to note that Luxshare appears to be the only company that will initially be assembling the headset.
+
+Two other sources from China-based suppliers of specific components of the Apple Vision Pro revealed Apple was only asking for enough parts to be able to build between 130,000 to 150,000 units in 2024.
+
+
+Apple Vision Pro - WWDC 2023 Reveal
+
+
+35 IMAGES
+
+
+
+
+If either of these projections proves to be true, it will be significantly less than the previously mentioned internal sales target of 1 million units Apple had set for its first year after launch in 2024.
+
+FT notes the manufacturing of the two micro-OLED displays for each eye and the accompanying outward-facing lens is possibly the biggest challenge facing the tech giant, especially because the displays "offer a resolution exceeding anything currently on the market, while the outward lens projects the headset wearer's eyes to the outside world."
+
+Sony and chipmaker TSMC were the ones who provided the displays for the Apple Vision Pro prototypes, and apparently Apple has been unhappy with the suppliers' productivity and the discouragingly lower amount of displays that are "free of defects" since then.
+
+Jay Goldberg, founder of tech consultancy D/D Advisors, stated the Apple Vision Pro is the "most complex consumer device anyone has ever made" and that the $3,499 price point - of which the displays are the most expensive part - was decided on due to Apple understanding "the cost of production inefficiencies, knowing that manufacturing yields were especially low compared with the mature products in Apple’s portfolio."
+
+"Someone has to pay for that,” Goldberg said. “I think Apple went into this with a lot of ‘bad yield’ built into the model. There is a lot of technology in the Vision Pro and they knew it would take a while to scale up. Apple knows they won’t make money on this in the first year.”
+
+Assuming these hurdles can be cleared, analysts like those at Canalys believed that the Apple Vision Pro will have a user base of over 20 million five years after launch. Only time will tell if that turns out to be true.

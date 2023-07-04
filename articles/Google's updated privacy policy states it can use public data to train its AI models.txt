@@ -1,0 +1,10 @@
+Google has updated its privacy policy to state that it can use publicly available data to help train its AI models. The tech giant has changed the wording of its policy over the weekend and switched "AI models" for "language models." It also stated that it could use publicly available information to build not just features, but full products like "Google Translate, Bard, and Cloud AI capabilities." By updating its policy, it's letting people know and making it clear that anything they publicly post online could be used to train Bard, its future versions and any other generative AI product Google develops.
+
+The tech giant has highlighted the changes to its privacy policy on its archive, but here's a copy of the pertinent part:
+
+Google's privacy policy, which reads: 
+Google
+Critics have been raising concerns about companies' use of information posted online to train their large language models for generative AI use. Recently, a proposed class action lawsuit was filed against OpenAI, accusing it of scraping "massive amounts of personal data from the internet," including "stolen private information," to train its GPT models without prior consent. As Search Engine Journal notes, we'll likely see plenty of similar lawsuits in the future as more companies develop their own generative AI products. 
+
+Owners of websites that could be considered public squares in the digital age have also taken steps to either prevent or profit from the generative AI boom. Reddit has started charging for access to its API, leading third-party clients to shut down over the weekend. Meanwhile, Twitter put a restriction on how many tweets a user sees per day to "address extreme levels of data scraping [and] system manipulation."
+
